@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sd-soubhagya
+- 👀 Interested in coding
+- 🌱 Currently learning to code
+- 💞️ Looking to collaborate on new projects
+- 📫 You can find me here
